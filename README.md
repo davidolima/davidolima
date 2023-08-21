@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **davidolima/davidolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+I'm currently a Computer Science undergraduate student at the Federal University of Bahia (UFBA) and a student researcher at the Intelligent Vision Laboratory (iVision Lab).
+
+### Currently Learning
+I'm currently studying generative adversarial networks (GANs) for medical image generation.
+
+### Personal Projects
+ - [Djikstra's Algorithm in Python](https://github.com/davidolima/Pathfinder)
+ - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
+
+### Articles
+ - [Sex estimation on panoramic dental radiographs: A methodological approach](https://sol.sbc.org.br/index.php/sbcas/article/view/25282) (co-authored)
+
+### Contact
+Contact me at [davidolima8@gmail.com](mailto:davidolima8@gmail.com)
