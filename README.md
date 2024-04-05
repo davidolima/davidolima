@@ -19,7 +19,7 @@ I'm currently a Computer Science undergraduate student at the Federal University
 I'm currently studying generative adversarial networks (GANs) for medical image generation.
 
 ### Personal Projects
- - [Djikstra's Algorithm in Python](https://github.com/davidolima/Pathfinder) (My first programming project)
+ - [Dijkstra's Algorithm in Python](https://github.com/davidolima/Pathfinder) (My first programming project)
  - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
 
 ### Articles
