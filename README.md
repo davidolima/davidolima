@@ -23,7 +23,8 @@ I'm currently studying generative adversarial networks (GANs) for medical image 
  - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
 
 ### Articles
- - [Sex estimation on panoramic dental radiographs: A methodological approach](https://sol.sbc.org.br/index.php/sbcas/article/view/25282) (co-authored)
+ - [[SBCAS 2023] Sex estimation on panoramic dental radiographs: A methodological approach](https://sol.sbc.org.br/index.php/sbcas/article/view/25282) (co-authored)
+ - [[VISAPP 2024] Multi-task learning based on log dynamic loss weighting for sex classification and age estimation on panoramic radiographs.](http://ivisionlab.ufba.br/doc/publication/2024/Multitask_learning_CR.pdf) (co-authored)
 
 ### Contact
 Contact me at [davidolima8@gmail.com](mailto:davidolima8@gmail.com)
