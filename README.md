@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 ### About me
 I'm currently a Computer Science undergraduate student at the Federal University of Bahia (UFBA) and a student researcher at the Intelligent Vision Laboratory (iVision Lab).
 
-### Currently Learning
-I'm currently studying generative adversarial networks (GANs) for medical image generation.
-
 ### Personal Projects
  - [Dijkstra's Algorithm in Python](https://github.com/davidolima/Pathfinder) (My first programming project)
  - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
