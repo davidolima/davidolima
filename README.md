@@ -17,6 +17,7 @@ I'm currently a Computer Science undergraduate student at the Federal University
 
 ### Personal Projects
  - [Dijkstra's Algorithm in Python](https://github.com/davidolima/Pathfinder) (My first programming project)
+ - [GAN architectures in PyTorch](https://github.com/davidolima/gans-pytorch)
  - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
 
 ### Articles
