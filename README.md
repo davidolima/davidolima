@@ -17,7 +17,7 @@ I'm currently a Computer Science undergraduate student at the Federal University
 
 ### Personal Projects
  - [GAN architectures in PyTorch](https://github.com/davidolima/gans-pytorch)
- - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
+ - [Simple Neural Networks from scratch in C++](https://github.com/davidolima/nn-cpp)
 
 ### Articles
  - [[SBCAS 2023] Sex estimation on panoramic dental radiographs: A methodological approach](https://sol.sbc.org.br/index.php/sbcas/article/view/25282) (co-authored)
