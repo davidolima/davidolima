@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 I'm currently a Computer Science undergraduate student at the Federal University of Bahia (UFBA) and a student researcher at the Intelligent Vision Laboratory (iVision Lab).
 
 ### Personal Projects
- - [Dijkstra's Algorithm in Python](https://github.com/davidolima/Pathfinder) (My first programming project)
  - [GAN architectures in PyTorch](https://github.com/davidolima/gans-pytorch)
  - [Simple Neural Networks in C++](https://github.com/davidolima/nn-cpp)
 
