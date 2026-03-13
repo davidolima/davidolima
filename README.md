@@ -13,17 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I'm currently a Computer Science undergraduate student at the Federal University of Bahia (UFBA) and a student researcher at the Intelligent Vision Laboratory (iVision Lab).
+Master's student in the Graduate Program in Computer Science at the Federal University of Bahia (UFBA), rated 6 by CAPES, and researcher at the Intelligent Vision Research Lab (iVision Lab) with over 3 years of experience in computer vision, deep learning and computing applied in healthcare. Graduated in Computer Science from UFBA (2025), with involvement in research and technological development projects, including industry-applied projects and cloud development with a focus on MLOps.
 
-<!--
-### Personal Projects
- - [GAN architectures in PyTorch](https://github.com/davidolima/gans-pytorch)
- - [Simple Neural Networks from scratch in C++](https://github.com/davidolima/nn-cpp)
-
-### Articles
- - [[SBCAS 2023] Sex estimation on panoramic dental radiographs: A methodological approach](https://sol.sbc.org.br/index.php/sbcas/article/view/25282) (co-authored)
- - [[VISAPP 2024] Multi-task learning based on log dynamic loss weighting for sex classification and age estimation on panoramic radiographs.](http://ivisionlab.ufba.br/doc/publication/2024/Multitask_learning_CR.pdf) (co-authored)
--->
+### Currently working on
+I'm developing my linear algebra, calculus and statistics skills, in order to build a strong base for ML/Data Science problem solving.
 
 ### Contact
 Contact me at [davidolima8@gmail.com](mailto:davidolima8@gmail.com)
